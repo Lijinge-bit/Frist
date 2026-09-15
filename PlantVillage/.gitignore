@@ -1,5 +1,6 @@
 .idea/
 PlantVillage/
 *.pt
+*.pth
 logs/
 __pycache__/
